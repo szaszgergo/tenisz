@@ -1,0 +1,30 @@
+body {
+    background-color: #DDFFFF;
+    color: #004400;
+    font-family: Times 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 2 px auto;
+}
+
+#tenisz {
+    float: left;
+    height: 100px;
+    margin-right: 20px;
+}
+
+h5 {
+    align-items: center;
+}
+
+table {
+    width: 20%;
+    background-color: #C4F4FD;
+    width: 670px;
+    border: none;
+    margin: 2pt;
+    padding: 2pt;
+}
+
+#fadd {
+    border: black 4px;
+}
